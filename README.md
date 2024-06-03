@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adit-sopo-jarwo
 - 👀 I’m interested in many things
 - 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate to make a game or application cuz I really wanna had it
+- 💞️ I’m looking to collaborate to make a good website
 - 📫 How to reach me @aaaditya0(instagram) 
 
 <!---
